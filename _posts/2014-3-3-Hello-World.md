@@ -5,6 +5,5 @@ published: true
 ---
 
 
-من فيفري 2020 إلى جانفي 2022
-
+من فيفري 2020 إلى جانفي 2022 في
 [الرابط أدناه](https://chart-studio.plotly.com/~math.nights/22.embed)
